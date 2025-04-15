@@ -6,7 +6,7 @@
         android:label="shopsmart5"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA80co8i3DYcTJhjmWlYpzrC5ZDjR-BX0s"/>
+            android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
